@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.App {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+.btn {
+  background-color: #1d9bf0;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  color: yellow;
+}
+
+.btn:hover {
+  background-color: #00538a;
+  cursor: pointer;
+}
